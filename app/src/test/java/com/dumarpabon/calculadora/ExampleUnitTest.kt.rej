@@ -1,0 +1,6 @@
+diff a/app/src/test/java/com/dumarpabon/calculadora/ExampleUnitTest.kt b/app/src/test/java/com/dumarpabon/calculadora/ExampleUnitTest.kt	(rejected hunks)
+@@ -0,3 +1,4 @@
++package com.dumarpabon.calculadora
+ 
+ import org.junit.Test
+ 

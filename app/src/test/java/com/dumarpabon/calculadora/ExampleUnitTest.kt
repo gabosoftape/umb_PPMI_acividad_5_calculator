@@ -1,4 +1,3 @@
-package com.dumarpabon.calculadora
 
 import org.junit.Test
 
