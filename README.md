@@ -31,5 +31,4 @@ Este proyecto es una aplicación de calculadora básica desarrollada para el cur
 4. Ejecutar la aplicación en un Emulador o dispositivo físico con Android 7.0 (API 24) o superior.
 
 ---
-**Desarrollado por:** Dumar Pabón
-**Curso:** Desarrollo Móvil 1 - Actividad 5
+**Desarrollado por:** Dumar Pabón Curso: Desarrollo Móvil 1 - Actividad 5 - UNIVERSIDAD MANUELA BELTRAN
